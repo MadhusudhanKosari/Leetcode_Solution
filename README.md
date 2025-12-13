@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0242-valid-anagram) |
 | [2351-first-letter-to-appear-twice](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/2351-first-letter-to-appear-twice) |
 ## String
@@ -58,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0070-climbing-stairs) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
