@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0189-rotate-array) |
 | [1925-count-square-sum-triples](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/1925-count-square-sum-triples) |
 ## Enumeration
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0506-relative-ranks) |
 | [1122-relative-sort-array](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/1122-relative-sort-array) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0189-rotate-array) |
 ## Counting Sort
 |  |
 | ------- |
