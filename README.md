@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0189-rotate-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0287-find-the-duplicate-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/2351-first-letter-to-appear-twice) |
