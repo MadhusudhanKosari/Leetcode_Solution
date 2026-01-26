@@ -7,11 +7,12 @@ class Solution {
         }
         List<List<Integer>> result = new ArrayList<>();
         for(int i = 1;i<arr.length;i++){
-            List<Integer>ls = new ArrayList<>();
+            // List<Integer>ls = new ArrayList<>();
             if(arr[i]-arr[i-1]== minDiff){
-                ls.add(arr[i-1]);
-                ls.add(arr[i]);
-                result.add(ls);
+                // ls.add(arr[i-1]);
+                // ls.add(arr[i]);
+                // result.add(ls);
+                result.add(Arrays.asList(arr[i-1],arr[i]));
             }
         }
         return result;
