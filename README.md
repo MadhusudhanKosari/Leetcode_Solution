@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0287-find-the-duplicate-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0287-find-the-duplicate-number) |
