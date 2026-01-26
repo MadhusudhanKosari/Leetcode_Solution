@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0231-power-of-two) |
 | [1925-count-square-sum-triples](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/1925-count-square-sum-triples) |
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/1925-count-square-sum-triples) |
 ## Hash Table
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0287-find-the-duplicate-number) |
 | [0506-relative-ranks](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0506-relative-ranks) |
@@ -114,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0078-subsets) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
