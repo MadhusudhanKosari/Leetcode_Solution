@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0496-next-greater-element-i) |
 | [1122-relative-sort-array](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/1122-relative-sort-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/2351-first-letter-to-appear-twice) |
 ## String
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0287-find-the-duplicate-number) |
+| [0496-next-greater-element-i](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0506-relative-ranks) |
 | [1122-relative-sort-array](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/1200-minimum-absolute-difference) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -136,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0225-implement-stack-using-queues) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
