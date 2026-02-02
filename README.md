@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0136-single-number) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0189-rotate-array) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0503-next-greater-element-ii) |
@@ -144,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
