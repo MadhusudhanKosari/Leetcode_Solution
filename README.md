@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/1200-minimum-absolute-difference) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2104-sum-of-subarray-ranges](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/2104-sum-of-subarray-ranges) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
 |  |
 | ------- |
