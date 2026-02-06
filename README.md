@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0189-rotate-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0085-maximal-rectangle) |
 | [0907-sum-of-subarray-minimums](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0907-sum-of-subarray-minimums) |
 ## Memoization
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0085-maximal-rectangle) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Recursion
 |  |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0085-maximal-rectangle) |
 | [0225-implement-stack-using-queues](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0225-implement-stack-using-queues) |
 | [0402-remove-k-digits](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0496-next-greater-element-i) |
@@ -161,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0503-next-greater-element-ii) |
