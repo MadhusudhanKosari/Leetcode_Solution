@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0503-next-greater-element-ii) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0506-relative-ranks) |
 ## Quickselect
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -183,4 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0402-remove-k-digits) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
