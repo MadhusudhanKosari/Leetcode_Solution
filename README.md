@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0084-largest-rectangle-in-histogram) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0402-remove-k-digits) |
 ## Sliding Window
 |  |
