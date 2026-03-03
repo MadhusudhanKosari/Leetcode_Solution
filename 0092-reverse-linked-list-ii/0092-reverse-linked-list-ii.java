@@ -10,19 +10,31 @@
  */
 class Solution {
     public ListNode reverseBetween(ListNode head, int left, int right) {
-        ArrayList<Integer> al = new ArrayList<>();
-        ListNode temp = head;
-        while(temp != null){
-            al.add(temp.val);
-            temp = temp.next;
+        ListNode prev = null;
+        ListNode curr = head;
+        int i;
+        for(i = 1;i<left;i++){
+            prev = curr;
+            curr = curr.next;
         }
-        Collections.reverse(al.subList(left-1,right));
-        temp = head;
-        int i = 0;
-        while(temp != null){
-            temp.val = al.get(i++);
-            temp = temp.next;
+        ListNode revHead = curr;
+        ListNode revTail = null;
+        ListNode nextNode = null;
+        while(i <= right){
+            nextNode = curr.next;
+            curr.next = revTail;
+            revTail = curr;
+            curr = nextNode;
+            i++;
         }
+        if(prev != null){
+            prev.next = revTail;
+        }
+        else{
+            head = revTail;
+        }
+        revHead.next = curr;
         return head;
+        
     }
 }
