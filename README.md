@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/1925-count-square-sum-triples) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/1200-minimum-absolute-difference) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2104-sum-of-subarray-ranges](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/2104-sum-of-subarray-ranges) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
