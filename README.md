@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0231-power-of-two) |
 | [1925-count-square-sum-triples](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/1925-count-square-sum-triples) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/2965-find-missing-and-repeated-values) |
 ## Enumeration
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0496-next-greater-element-i) |
 | [1122-relative-sort-array](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/1122-relative-sort-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/2351-first-letter-to-appear-twice) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/1200-minimum-absolute-difference) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2104-sum-of-subarray-ranges](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/2104-sum-of-subarray-ranges) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0204-count-primes) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Stack
 |  |
 | ------- |
