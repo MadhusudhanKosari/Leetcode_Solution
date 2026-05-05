@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0506-relative-ranks) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0225-implement-stack-using-queues) |
+| [0303-range-sum-query-immutable](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0303-range-sum-query-immutable) |
 | [0901-online-stock-span](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
@@ -212,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0901-online-stock-span) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
