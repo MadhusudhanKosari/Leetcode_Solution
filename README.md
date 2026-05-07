@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0231-power-of-two) |
+| [1248-count-number-of-nice-subarrays](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1925-count-square-sum-triples](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/1925-count-square-sum-triples) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/2965-find-missing-and-repeated-values) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0496-next-greater-element-i) |
 | [1122-relative-sort-array](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/1122-relative-sort-array) |
+| [1248-count-number-of-nice-subarrays](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/2351-first-letter-to-appear-twice) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/2965-find-missing-and-repeated-values) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0907-sum-of-subarray-minimums) |
 | [1122-relative-sort-array](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/1200-minimum-absolute-difference) |
+| [1248-count-number-of-nice-subarrays](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2104-sum-of-subarray-ranges](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/2104-sum-of-subarray-ranges) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0239-sliding-window-maximum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/1248-count-number-of-nice-subarrays) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -218,4 +222,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/0303-range-sum-query-immutable) |
+| [1248-count-number-of-nice-subarrays](https://github.com/MadhusudhanKosari/Leetcode_Solution/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
